@@ -54,3 +54,36 @@ A full-stack Next.js 14 application that empowers communities to manage waste ef
    Deploy using Vercel or your preferred host
 
 ---
+
+## 🧠 Core Features
+
+- 🧾 **Image Upload**: Users submit photos of waste.
+- 🧠 **AI Verification**: Gemini AI classifies waste and estimates quantity.
+- 📍 **Location Tagging**: User location is stored with each submission.
+- 💰 **Reward System**: Points based on waste type and quantity.
+- 🏆 **Leaderboard**: Ranks users by contributions.
+- 🧹 **Task Dashboard**: For municipality or cleanup crew.
+
+---
+
+## 🔒 Authentication
+
+- **Web3Auth** enables secure and seamless login via crypto wallets or email/password.
+
+---
+
+## 🎯 Future Enhancements
+
+- Mobile app version
+- Push notifications for pickups
+- QR code based verification
+- Carbon footprint calculator
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions!  
+Fork this repo, create a branch, and submit a pull request.
+
+---
