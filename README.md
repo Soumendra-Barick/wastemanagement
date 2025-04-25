@@ -4,18 +4,6 @@ A full-stack Next.js 14 application that empowers communities to manage waste ef
 
 ---
 
-## 🚀 What You'll Learn
-
-- ✅ Next.js 14 fundamentals and best practices
-- 🧠 AI integration using Google Gemini AI
-- 🔐 Authentication with Web3Auth
-- 🛠️ Full stack development with TypeScript + Drizzle ORM
-- 🌀 State management with React hooks
-- 🎨 Responsive design using Tailwind CSS
-- 🚀 Deployment-ready Next.js apps
-
----
-
 ## 📚 Project Highlights
 
 - 🤖 AI-assisted waste verification system
