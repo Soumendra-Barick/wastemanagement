@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ♻️ AI-Powered Waste Management System 🌍
 
-## Getting Started
+A full-stack Next.js 14 application that empowers communities to manage waste effectively. Users upload photos of waste, our AI (powered by Google Gemini) identifies the waste type and quantity, and users are rewarded with eco-points they can redeem for vouchers.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 What You'll Learn
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- ✅ Next.js 14 fundamentals and best practices
+- 🧠 AI integration using Google Gemini AI
+- 🔐 Authentication with Web3Auth
+- 🛠️ Full stack development with TypeScript + Drizzle ORM
+- 🌀 State management with React hooks
+- 🎨 Responsive design using Tailwind CSS
+- 🚀 Deployment-ready Next.js apps
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📚 Project Highlights
 
-## Learn More
+- 🤖 AI-assisted waste verification system
+- 🎁 Reward points for verified waste submissions
+- 🗺️ Real-time waste collection task management
+- 🏆 Interactive leaderboard to boost community engagement
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🖥 Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+| Layer         | Technology              |
+|--------------|--------------------------|
+| Frontend     | Next.js 14, TypeScript, Tailwind CSS |
+| AI Model     | Google Gemini AI         |
+| Auth         | Web3Auth                 |
+| State Mgmt   | React Hooks              |
+| Database     | Drizzle ORM              |
+| Deployment   | Vercel / Custom Hosting  |
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 👣 Step-by-Step Guide
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. **Setup**  
+   `npx create-next-app@latest` (with TypeScript)
+
+2. **UI Layout**  
+   Build responsive layout with Tailwind CSS
+
+3. **Authentication**  
+   Integrate Web3Auth for user login
+
+4. **Database**  
+   Configure schema and models with Drizzle ORM
+
+5. **AI Integration**  
+   Use Gemini AI API to detect waste type & quantity
+
+6. **Core Features**
+   - Upload Image
+   - AI Waste Verification
+   - Location Input
+   - Rewards Allocation
+   - Leaderboard Display
+
+7. **Deployment**  
+   Deploy using Vercel or your preferred host
+
+---
